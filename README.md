@@ -5,18 +5,19 @@ Aula 01 de HTML, onde foi ensinado a estrutura base do código, além de comando
 
 # Conteúdo Ministrado 
 
-* [Cabeçalho de Texto](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/cabecalho.html)
-* [Comentários](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/comentario.html)
-* [Elemento Details](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/details.html)
-* [Estilos de Texto](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/estilos.html)
 * [Estrutura base do HTML](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/estrutura.html)
-* [Exercício Currículo](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/exercicio.html)
+* [Comentários](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/comentario.html)
+* [Cabeçalho de Texto](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/cabecalho.html)
+* [Parágrafos de Textos](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/paragrafo.html)
+* [Estilos de Texto](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/estilos.html)
 * [Formatações de Texto](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/formatacao.html)
+* [Elemento Details](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/details.html)
 * [Letreiro Animado](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/letreiro.html)
 * [Listas Não Ordenadas](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-nao-ordenadas.html)
 * [Listas Ordenadas](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-ordenadas.html)
 * [Listas por Definição](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/listas-por-definicao.html)
-* [Parágrafos de Textos](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/paragrafo.html)
+* [Exercício Currículo](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/exercicio.html)
+
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
