@@ -5,11 +5,7 @@ Aula 01 de HTML, onde foi ensinado a estrutura base do código, além de comando
 
 # Conteúdo Ministrado 
 
-* [Links Internos](#links-internos)
-* [Links Externos](#links-externos)
-* [Imagens Internas](#imagens-internas)
-* [Imagens Externas](#imagens-externas)
-* [Imagens e Links](#imagens-e-links)
+* [Estrutura Base do HTML](https://github.com/wagnerlimanet/aula01-de-html-sintaxe-e-textos/blob/main/estrutura.html)
 
 # Professor Wagner Lima
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/80631657?v=4" width=115 align=left>
